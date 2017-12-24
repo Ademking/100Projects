@@ -6,7 +6,7 @@
 3. :boom: 03/12/2017 :boom: HTML To Markdown Converter https://ademking.github.io/HTML-To-Markdown/
 4. :boom: 11/12/2017 :boom: Working on big project ... will publish soon... 
 5. :boom: 19/12/2017 :boom: K-BOT (Maching Learning Based BOT) https://ademking.github.io/K-BOT/
-6. :boom: 24/12/2017 :boom: ِConvert2Arabic : Convert From "Franco-Arabic" To Arabic https://ademking.github.io/Convert2Arabic/
+6. :boom: 24/12/2017 :boom: ِConvert2Arabic  https://ademking.github.io/Convert2Arabic/
 7. 
 8. 
 9. 
