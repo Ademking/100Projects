@@ -39,8 +39,8 @@
 36. :boom: 25/07/2018 :boom: Tunisia360 : https://github.com/Ademking/Tunisia360
 37. :boom: 01/08/2018 :boom: [Deprecated] Plane/Fire Reactions : https://github.com/Ademking/Fire-Plane-FB-Reactions
 38. :boom: 16/08/2018 :boom: [Private] Chatbot Survey Generator (for Chatfuel & ManyChat) : https://goo.gl/NKBE5D
-39.
-40.
+39. :boom: 14/09/2018 :boom: Ema5ir - Trivia Game : https://github.com/Ademking/Ema5ir
+40. :boom: 20/09/2018 :boom: LinkedIn AutoLiker : http://linkedin-liker.surge.sh
 41.
 42.
 43.
