@@ -41,8 +41,8 @@
 38. :boom: 16/08/2018 :boom: [Private] Chatbot Survey Generator (for Chatfuel & ManyChat) : https://goo.gl/NKBE5D
 39. :boom: 14/09/2018 :boom: Ema5ir - Trivia Game : https://github.com/Ademking/Ema5ir
 40. :boom: 20/09/2018 :boom: LinkedIn AutoLiker : http://linkedin-liker.surge.sh
-41.
-42.
+41. :boom: 06/10/2018 :boom: Coob Music Finder : https://github.com/Ademking/Coub-Music-Finder
+42. :boom: 15/10/2018 :boom: BulkSMSPython : https://github.com/Ademking/BulkSMSPython 
 43.
 44.
 45.
