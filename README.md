@@ -28,9 +28,9 @@ List of my 100 Projects
 25. :boom: 20/09/2018 :boom: LinkedIn AutoLiker : http://linkedin-liker.surge.sh
 26. :boom: 06/10/2018 :boom: Coob Music Finder : https://github.com/Ademking/Coub-Music-Finder
 42. :boom: 15/10/2018 :boom: BulkSMSPython : https://github.com/Ademking/BulkSMSPython 
-27.
-28.
-29.
+27. :boom: 09/11/2018 :boom: iFound App (Class Project) : https://github.com/Ademking/iFound
+28. :boom: 21/11/2018 :boom: WebCmd (Chrome Extension) : https://github.com/Ademking/WebCmd
+29. :boom: 09/01/2018 :boom: InstaFollower (Nodejs) : https://github.com/Ademking/InstaFollower
 30.
 31.
 32.
